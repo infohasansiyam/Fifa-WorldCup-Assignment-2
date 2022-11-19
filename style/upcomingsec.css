@@ -454,7 +454,7 @@ span.social-logos i:nth-child(1) {
         text-align: center;
         margin-top: 10px;
         cursor: pointer;
-        transition: background-color 0.3s;
+        transition: background-color 0.4s;
     }
 
     .btn i {
@@ -463,7 +463,7 @@ span.social-logos i:nth-child(1) {
     }
 
     .btn:hover {
-        background-color: #ee130c;
+        background-color: #4c0cee;
     }
 
     .btn:hover i {
